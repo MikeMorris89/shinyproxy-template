@@ -1,4 +1,4 @@
-FROM openanalytics/r-base
+FROM rocker/r-base 
 
 MAINTAINER Tobias Verbeke "tobias.verbeke@openanalytics.eu"
 
